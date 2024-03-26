@@ -3,3 +3,4 @@ __pycache__/
 *.py[cod]
 .virtual_documents/
 .ipynb_checkpoints
+env/
